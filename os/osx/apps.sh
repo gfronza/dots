@@ -9,10 +9,6 @@ apps=(
   alfred
   dropbox
   google-chrome
-  qlcolorcode
-  screenflick
-  slack
-  transmit
   appcleaner
   firefox
   hazel
@@ -27,9 +23,7 @@ apps=(
   shiori
   sublime-text3
   virtualbox
-  atom
   flux
-  mailbox
   qlstephen
   sketch
   tower
@@ -39,7 +33,6 @@ apps=(
   nvalt
   quicklook-json
   skype
-  transmission
 )
 
 # fonts
