@@ -20,6 +20,8 @@ apps=(
   quicklook-json
   skype
   plex-media-server
+  hipchat
+  evernote
 )
 
 # Specify the location of the apps
