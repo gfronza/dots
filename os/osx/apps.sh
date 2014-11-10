@@ -13,7 +13,7 @@ apps=(
   flash
   iterm2
   qlprettypatch
-  sublime-text2
+  sublime-text
   virtualbox
   qlstephen
   vlc
