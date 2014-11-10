@@ -19,6 +19,7 @@ apps=(
   vlc
   quicklook-json
   skype
+  plex-media-server
 )
 
 # Specify the location of the apps
