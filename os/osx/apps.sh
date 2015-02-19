@@ -17,10 +17,9 @@ apps=(
   virtualbox
   qlstephen
   vlc
-  quicklook-json
   skype
   plex-media-server
-  hipchat
+  slack
   evernote
 )
 
